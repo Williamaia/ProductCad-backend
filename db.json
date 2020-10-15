@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "SSD KINGSTON 480GB",
+      "valor": 450
+    },
+    {
+      "id": 2,
+      "nome": "NOTEBOOK ACER",
+      "valor": 2.8
+    },
+    {
+      "id": 3,
+      "nome": "TV LG 60'",
+      "valor": 1.75
+    },
+    {
+      "nome": "Geladeira",
+      "valor": "2000,00",
+      "id": 4
+    }
+  ]
+}
